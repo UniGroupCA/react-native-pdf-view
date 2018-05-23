@@ -1,5 +1,5 @@
 {
-  "name": "react-native-pdf-view",
+  "name": "@qdivision/react-native-pdf-view",
   "version": "0.4.0",
   "description": "A pdf file view component for react native.",
   "main": "index.js",
@@ -16,10 +16,7 @@
     "pdf",
     "view"
   ],
-  "author": {
-    "name": "cnjon",
-    "url": "https://github.com/cnjon"
-  },
+  "author": "cnjon (https://github.com/cnjon)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/cnjon/react-native-pdf-view/issues"
@@ -30,5 +27,12 @@
   },
   "dependencies": {
     "prop-types": "^15.6.0"
+  },
+  "homepage": "https://github.com/cnjon/react-native-pdf-view#readme",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
