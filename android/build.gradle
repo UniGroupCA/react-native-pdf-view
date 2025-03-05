@@ -17,6 +17,7 @@ buildscript {
 android {
     compileSdkVersion 33
     buildToolsVersion '30.0.2'
+    namespace "com.qdivision.reactnativepdfview"
 
     defaultConfig {
         minSdkVersion 21
