@@ -18,8 +18,4 @@
     along with Android-pdfview.  If not, see <http://www.gnu.org/licenses/>.
 
 -->
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-      package="com.keyee.pdfview">
-
-              
-</manifest>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"></manifest>
