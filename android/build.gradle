@@ -15,13 +15,13 @@ buildscript {
 }
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 35
     buildToolsVersion '30.0.2'
     namespace "com.qdivision.reactnativepdfview"
 
     defaultConfig {
-        minSdkVersion 21
-        targetSdkVersion 33
+        minSdkVersion 24
+        targetSdkVersion 35
     }
 }
 
