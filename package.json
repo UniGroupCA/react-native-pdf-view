@@ -1,6 +1,6 @@
 {
   "name": "@qdivision/react-native-pdf-view",
-  "version": "0.5.2",
+  "version": "0.5.5",
   "description": "A pdf file view component for react native.",
   "main": "index.js",
   "typings": "./index.d.ts",
